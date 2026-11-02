@@ -1,0 +1,15 @@
+{
+  "owner": "YOUR NAME AS IN BANK SMS",
+  "weeklyAllowance": 5000,
+  "budgets": {
+    "Rent": 10000,
+    "Food & groceries": 7500
+  },
+  "keywordRules": {
+    "YOUR EMPLOYER LTD": "Salary",
+    "0123456789012": "Rent"
+  },
+  "ownAccounts": [
+    "YOUR BANK ACCOUNT NUMBER"
+  ]
+}

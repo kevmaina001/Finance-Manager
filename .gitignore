@@ -1,0 +1,14 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+
+# personal data — never commit
+app/src/main/assets/personal.json
+sms_*.txt
+*.apk
+*.aab
+*.jks
+*.keystore
